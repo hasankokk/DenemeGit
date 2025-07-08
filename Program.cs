@@ -13,7 +13,7 @@ if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
 }
-
+Console.Write("kjsfgkjagfka");
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
